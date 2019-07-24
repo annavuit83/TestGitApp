@@ -15,6 +15,9 @@ namespace TestGitApp
         public Form1()
         {
             InitializeComponent();
+
+            MessageBox.Show("Hello World ^-^");
+
         }
     }
 }
